@@ -6,7 +6,7 @@
 
 # more general
 
-Rxxvnge: inbound or outbound
+KirasLaw: inbound or outbound
 
 # ipv6 is supported but usually not that useful
 
